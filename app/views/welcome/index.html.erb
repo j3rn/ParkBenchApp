@@ -1,1 +1,7 @@
 <h1>Welcome!</h1>
+
+<% if user_signed_in? %>
+  <!-- Do things -->
+<% else %>
+  You're not signed in! :( <%= link_to 'Sign in', new_user_session_path %>
+<% end %>
