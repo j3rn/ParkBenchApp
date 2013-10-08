@@ -9,6 +9,9 @@ gem 'therubyracer'
 # Use HTTParty for easy HTTP requests
 gem 'httparty'
 
+# Use Devise for user authentication
+gem 'devise'
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
