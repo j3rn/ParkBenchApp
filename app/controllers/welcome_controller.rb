@@ -13,6 +13,7 @@ class WelcomeController < ApplicationController
       postData = responseHash["data"]["children"][i]["data"]
       post.author = postData["author"]
       post.title = postData["title"]
+      post.name = postData["name"]
       post.permalink = postData["permalink"]
       post.articleUrl = postData["url"]
 
