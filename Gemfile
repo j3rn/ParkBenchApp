@@ -6,6 +6,9 @@ gem 'rails', '4.0.0'
 # Use The Ruby Racer for javascript
 gem 'therubyracer'
 
+# Use will_paginate for pagination
+gem 'will_paginate', '~> 3.0'
+
 # Use HTTParty for easy HTTP requests
 gem 'httparty'
 
