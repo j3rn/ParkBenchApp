@@ -20,6 +20,6 @@ class WelcomeController < ApplicationController
       post.save
     end
     
-    @posts = Post.all
+    @posts = Post.paginate(:page => params[:page], :per_page => 10)
   end
 end
