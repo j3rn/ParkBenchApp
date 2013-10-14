@@ -1,7 +1,5 @@
 require 'test_helper'
 
 class UserTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+  # Users handled by Devise - And I trust the Devise devs
 end

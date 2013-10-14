@@ -1,9 +1,1 @@
-Joe:
-  email: joe@joe.com
-  password: aPrettySolidPassword
-  password_confirmation: aPrettySolidPassword
-
-Zach:
-  email: zach@gmail.com
-  password: probablyABadPassword
-  password_confirmation: probablyABadPassword 
+# No user fixtures as the user system (Devise) will not be tested

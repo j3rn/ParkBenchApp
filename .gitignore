@@ -17,3 +17,7 @@
 
 # Ignore the database config
 /config/database.yml
+
+# As great as sharing Vagrant boxes is, mine is secret
+Vagrantfile
+.vagrant
