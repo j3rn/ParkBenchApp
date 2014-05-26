@@ -1,0 +1,1 @@
+# No user fixtures as the user system (Devise) will not be tested

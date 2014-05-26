@@ -3,6 +3,18 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
+# Use The Ruby Racer for javascript
+gem 'therubyracer'
+
+# Use will_paginate for pagination
+gem 'will_paginate', '~> 3.0'
+
+# Use HTTParty for easy HTTP requests
+gem 'httparty'
+
+# Use Devise for user authentication
+gem 'devise'
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 

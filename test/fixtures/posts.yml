@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: "fdjgkasj"
+  title: "Something Interesting"
+  author: "A person"
+  permalink: "/r/technology/kdsalk"
+  articleUrl: "http://www.theverge.com"
+
+two:
+  name: "jksfrhg"
+  title: "Something Marginally Less Interesting"
+  author: "A different person"
+  permalink: "/r/technology/kasijf"
+  articleUrl: "http://www.wired.com"
